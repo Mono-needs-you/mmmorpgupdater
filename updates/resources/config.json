@@ -14,7 +14,7 @@
   "MenuBackgroundDisplayMode": "Default",
   "MenuBackgroundFrameInterval": 50,
   "IntroImages": [],
-  "UpdateUrl": "",
+  "UpdateUrl": "https://mono-needs-you.github.io/mmmorpgupdater/updates/update.json",
   "MouseCursor": "",
   "MusicFadeTimer": 1500,
   "FadeDurationMs": 3000.0,
