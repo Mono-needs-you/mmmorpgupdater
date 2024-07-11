@@ -7266,7 +7266,7 @@
       "Hash": "21852be2e6726072024e52562ae589c9",
       "Size": 396
     },
-{
+    {
       "Path": "resources/tilesets/Autotiles_Ground.png",
       "Hash": "6df416574d77a25c0101bd46b4bf69c1",
       "Size": 51007
@@ -7325,11 +7325,6 @@
       "Path": "resources/tilesets/Overworld_2.png",
       "Hash": "c1263670456e9b5ccd1cca6dfa4b6299",
       "Size": 11480
-    },
-    {
-      "Path": "resources/tilesets/Slanted Roofs.png",
-      "Hash": "e677539748b82a3fa5ac298ca35561df",
-      "Size": 9329
     },
     {
       "Path": "resources/tilesets/Slanted Roofs.png",
