@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "6,6,104,16",
+          "Bounds": "6,6,104,17",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -77,7 +77,7 @@
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
-          "Bounds": "6,30,1,16",
+          "Bounds": "6,30,1,17",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -107,7 +107,7 @@
           "TextScale": 1.0
         },
         "NameAndLevelLabel": {
-          "Bounds": "32,6,1,16",
+          "Bounds": "32,6,1,17",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -137,7 +137,7 @@
           "TextScale": 1.0
         },
         "EntityMapLabel": {
-          "Bounds": "82,108,1,14",
+          "Bounds": "82,108,1,13",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -263,7 +263,7 @@
           "RightMouseClickSound": null
         },
         "HPTitle": {
-          "Bounds": "82,39,21,16",
+          "Bounds": "82,39,22,17",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -371,7 +371,7 @@
           "RightMouseClickSound": null
         },
         "MPTitle": {
-          "Bounds": "82,61,22,16",
+          "Bounds": "82,61,23,17",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -479,7 +479,7 @@
           "RightMouseClickSound": null
         },
         "EXPTitle": {
-          "Bounds": "82,82,27,16",
+          "Bounds": "82,82,22,17",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "AnnouncementLabel": {
-      "Bounds": "299,8,1,26",
+      "Bounds": "299,7,1,27",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

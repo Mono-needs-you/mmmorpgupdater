@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,114,31",
+    "Bounds": "0,0,170,31",
     "Padding": "40,7,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -790,7 +790,7 @@
         }
       },
       "QuestDescriptionTemplate": {
-        "Bounds": "0,0,1,16",
+        "Bounds": "0,0,1,17",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

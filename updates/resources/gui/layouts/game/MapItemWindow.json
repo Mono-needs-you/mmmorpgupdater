@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "Title": {
-      "Bounds": "40,6,33,20",
+      "Bounds": "40,6,59,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

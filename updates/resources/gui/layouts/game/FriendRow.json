@@ -71,7 +71,7 @@
       "RightMouseClickSound": null
     },
     "Name": {
-      "Bounds": "30,3,1,16",
+      "Bounds": "30,3,1,17",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -101,7 +101,7 @@
       "TextScale": 1.0
     },
     "Status": {
-      "Bounds": "182,3,1,16",
+      "Bounds": "182,3,1,17",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

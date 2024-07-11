@@ -7948,7 +7948,7 @@
             "ClickSound": ""
           },
           "ControlOpenCharacterInfoLabel": {
-            "Bounds": "14,747,230,17",
+            "Bounds": "14,747,126,17",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8690,7 +8690,7 @@
             "ClickSound": ""
           },
           "ControlOpenAdminPanelLabel": {
-            "Bounds": "14,971,216,17",
+            "Bounds": "14,971,118,17",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8902,7 +8902,7 @@
             "ClickSound": ""
           },
           "ControlTurnAroundLabel": {
-            "Bounds": "14,1035,212,17",
+            "Bounds": "14,1035,138,17",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -9114,7 +9114,7 @@
             "ClickSound": ""
           },
           "ControlHoldToZoomInLabel": {
-            "Bounds": "14,1099,187,17",
+            "Bounds": "14,1099,155,17",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -9326,7 +9326,7 @@
             "ClickSound": ""
           },
           "ControlHoldToZoomOutLabel": {
-            "Bounds": "14,1163,191,17",
+            "Bounds": "14,1163,159,17",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -9432,7 +9432,7 @@
             "ClickSound": ""
           },
           "ControlToggleFullscreenLabel": {
-            "Bounds": "14,1195,223,17",
+            "Bounds": "14,1195,165,17",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

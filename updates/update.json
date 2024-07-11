@@ -12,14 +12,14 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "69fe2d130e39c230b834c35a4aedfb8f",
-      "Size": 43797,
+      "Hash": "1986e405ac9da6efeb6237bc79057495",
+      "Size": 43201,
       "EditorIgnore": true
     },
     {
       "Path": "resources/config.json",
-      "Hash": "29baed221791664d5dedc7fd971f7c1b",
-      "Size": 1155
+      "Hash": "13b621c92694e49560d8c0a0291e8764",
+      "Size": 1225
     },
     {
       "Path": "resources/credits.json",
@@ -1808,12 +1808,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/AdminWindow.json",
-      "Hash": "38ce98fe1029b2f0924704e1cda33094",
-      "Size": 69536
+      "Hash": "610b61443fa67692aec5359deb0989b8",
+      "Size": 71499
     },
     {
       "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
-      "Hash": "4e4c6883caceb04b680aad041a036ed8",
+      "Hash": "1a6286766ce86abdf8b5206dee080227",
       "Size": 1614
     },
     {
@@ -1838,7 +1838,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BankItem.json",
-      "Hash": "c9b069406629a6820da91ef4a4a0017b",
+      "Hash": "2108498d438cbc1d7a159ca9b6b589ba",
       "Size": 2393
     },
     {
@@ -1848,12 +1848,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "8ccc0bb53dfbc7e60ea5ad4846ae9a8a",
+      "Hash": "56cbaced096f4188b16f689c95616638",
       "Size": 40163
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "9976709b579615798962c9eb8c86a279",
+      "Hash": "e82c5e7106f15532c04fac7d3f593938",
       "Size": 40343
     },
     {
@@ -1938,8 +1938,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/FriendRow.json",
-      "Hash": "a65b72d59cc9d6eb15027bae0346a3e4",
-      "Size": 6159
+      "Hash": "03b484e210657e646bd17d98a04029b6",
+      "Size": 6368
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
@@ -1958,13 +1958,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "c02af56f8405998dc3c7fc0948d7445e",
+      "Hash": "375ed6c0b3c73de767af9a7b724d89f7",
       "Size": 59344
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "d0ccabaeb0e6768ea2f1da43dffc36b0",
-      "Size": 14760
+      "Hash": "6cf442d07af12ff0f598bc16126caf69",
+      "Size": 15243
     },
     {
       "Path": "resources/gui/layouts/game/InventoryContextMenu.json",
@@ -1973,22 +1973,22 @@
     },
     {
       "Path": "resources/gui/layouts/game/InventoryItem.json",
-      "Hash": "2de65d3abc103157c0789f5cade07761",
+      "Hash": "579a3a7b29965df8a019699d050e0d28",
       "Size": 5459
     },
     {
       "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "667220532c187706caeecf3c2e3f56fa",
+      "Hash": "71e231b2f39a93a1f5f7b3dd4d96c913",
       "Size": 14733
     },
     {
       "Path": "resources/gui/layouts/game/MapItemIcon.json",
-      "Hash": "ace29a877597c03c4c396ebf5b428fb9",
+      "Hash": "a22691dd15655cea555130422270ebb2",
       "Size": 2396
     },
     {
       "Path": "resources/gui/layouts/game/MapItemWindow.json",
-      "Hash": "f26a089f92a22869b7fb5b0e1c6850f2",
+      "Hash": "212c8750ac8c22056846a7ad93d38190",
       "Size": 13019
     },
     {
@@ -1998,12 +1998,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "c8e5ccc7ce896ef4f49c634ee1e267bc",
+      "Hash": "63d7bbcd5240bf8b2b5a9a3cfbb8393a",
       "Size": 25333
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "f223ed0ba30d554c57f04d221f478294",
+      "Hash": "fba5a1804b39b910f2a803472f9e2f8e",
       "Size": 18822
     },
     {
@@ -2018,12 +2018,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "b71df00f8d3b3949f65c989246837734",
+      "Hash": "ca5c20660821161a6593b244b3d08bf8",
       "Size": 19745
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "f05c3bc61ca3af25c4318227397fccbd",
+      "Hash": "e668887343a9dc147201154f1aa3fd7a",
       "Size": 31598
     },
     {
@@ -2043,7 +2043,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/Spell.json",
-      "Hash": "f400d5670fe6fe55ebc30cc4e990d2f7",
+      "Hash": "87b0cb4d650cb56221379b57ac303d3e",
       "Size": 2540
     },
     {
@@ -2058,8 +2058,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "b11079695c89a6a9284b14ebaf4f08fc",
-      "Size": 14715
+      "Hash": "3c01020aa7b39464cda1efc6d8f77002",
+      "Size": 14716
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.1024x720.json",
@@ -2078,7 +2078,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "31d3c53776cceccbe92086b9e81783dc",
+      "Hash": "bbda7c7ca928965e49962ff4ef02ce96",
       "Size": 32525
     },
     {
@@ -2138,8 +2138,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "094404f48818ac8c177112839cd92a28",
-      "Size": 14498
+      "Hash": "16e5a4f92668654cd2bbbd2c47f1f4f1",
+      "Size": 14497
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
@@ -2173,7 +2173,7 @@
     },
     {
       "Path": "resources/gui/layouts/shared/SettingsWindow.json",
-      "Hash": "929e79489f06a1dad760026cff884723",
+      "Hash": "580c49936f224ecb845a03bebff2ac21",
       "Size": 397083
     },
     {
@@ -7267,6 +7267,16 @@
       "Size": 396
     },
     {
+      "Path": "resources/tilesets/AllAssetsPreview.png",
+      "Hash": "ab0bf1f7d9482ebd89c420ffb73f2f13",
+      "Size": 111046
+    },
+    {
+      "Path": "resources/tilesets/AllBuildings-Preview.png",
+      "Hash": "e0fcb394b394b170308ffd3fe185053f",
+      "Size": 20321
+    },
+    {
       "Path": "resources/tilesets/Autotiles_Ground.png",
       "Hash": "6df416574d77a25c0101bd46b4bf69c1",
       "Size": 51007
@@ -7297,9 +7307,149 @@
       "Size": 13711
     },
     {
+      "Path": "resources/tilesets/Barracks.png",
+      "Hash": "093b0e012fcc2b4f033f648a841a865b",
+      "Size": 2934
+    },
+    {
+      "Path": "resources/tilesets/Boat.png",
+      "Hash": "7b48ad399e5f0f4cd91d4b6cd4c19e2e",
+      "Size": 940
+    },
+    {
+      "Path": "resources/tilesets/Bridge.png",
+      "Hash": "2498d804c7e209b5e688cdf97f5ec9d2",
+      "Size": 1331
+    },
+    {
+      "Path": "resources/tilesets/Cactus.png",
+      "Hash": "54cd5d2b808aac951b61f953ecdb977d",
+      "Size": 1689
+    },
+    {
       "Path": "resources/tilesets/Caves Etc.png",
       "Hash": "9e770dfaa3d967f6ec9ce020321f287c",
       "Size": 1070861
+    },
+    {
+      "Path": "resources/tilesets/CaveV2.png",
+      "Hash": "1d83c4b4644df33a3cabe2a67ba4ca26",
+      "Size": 1680
+    },
+    {
+      "Path": "resources/tilesets/Chapels.png",
+      "Hash": "4805a9640c1cbe12946141953cc84b3c",
+      "Size": 1920
+    },
+    {
+      "Path": "resources/tilesets/Chests.png",
+      "Hash": "804271d74a79d393316e9ae02c350ed0",
+      "Size": 1039
+    },
+    {
+      "Path": "resources/tilesets/Cliff-Water.png",
+      "Hash": "5a526568062b3253170b36ac71b7c0d3",
+      "Size": 3835
+    },
+    {
+      "Path": "resources/tilesets/Cliff.png",
+      "Hash": "d449ccf70b2043cac5a4684435027b13",
+      "Size": 8788
+    },
+    {
+      "Path": "resources/tilesets/CoconutTrees.png",
+      "Hash": "8be96739e73984e61ed2caba54b2a989",
+      "Size": 1324
+    },
+    {
+      "Path": "resources/tilesets/ColoredBuildingsPreview.png",
+      "Hash": "13b11d6f55975cdd1537983a84cdd84f",
+      "Size": 93959
+    },
+    {
+      "Path": "resources/tilesets/CyanBarracks.png",
+      "Hash": "3d9ae6e9e5eaae5012cbadbe990fa4ff",
+      "Size": 24054
+    },
+    {
+      "Path": "resources/tilesets/CyanChapels.png",
+      "Hash": "224fe380c18ef58134b7162ce3004180",
+      "Size": 16062
+    },
+    {
+      "Path": "resources/tilesets/CyanDocks.png",
+      "Hash": "d58d45d76551ec64bfddd2a178ce6e47",
+      "Size": 9413
+    },
+    {
+      "Path": "resources/tilesets/CyanHouses.png",
+      "Hash": "685c2bc5aacb58909b5525d7bb82264f",
+      "Size": 10562
+    },
+    {
+      "Path": "resources/tilesets/CyanHuts.png",
+      "Hash": "dd415c309ba2ac947101f4ca7eef7d8b",
+      "Size": 6206
+    },
+    {
+      "Path": "resources/tilesets/CyanKeep.png",
+      "Hash": "95ebf838dcb5dd322de75bfc6785090b",
+      "Size": 23019
+    },
+    {
+      "Path": "resources/tilesets/CyanMarket.png",
+      "Hash": "f41aecf8e8fcfdf73fb75467876ed70b",
+      "Size": 10846
+    },
+    {
+      "Path": "resources/tilesets/CyanResources.png",
+      "Hash": "831b781b89df805d48f6840317798ee3",
+      "Size": 22668
+    },
+    {
+      "Path": "resources/tilesets/CyanShip.png",
+      "Hash": "372de6a966b92c3ba36429ce9d96b1e3",
+      "Size": 7324
+    },
+    {
+      "Path": "resources/tilesets/CyanTaverns.png",
+      "Hash": "e939c11a2ec865030e4bf1480f8ef34d",
+      "Size": 14489
+    },
+    {
+      "Path": "resources/tilesets/CyanTower.png",
+      "Hash": "345e2521cb694afcdd8d560eb557c224",
+      "Size": 11977
+    },
+    {
+      "Path": "resources/tilesets/CyanWell.png",
+      "Hash": "40195b8fad37d9481571f7800facd64f",
+      "Size": 8360
+    },
+    {
+      "Path": "resources/tilesets/CyanWorkshops.png",
+      "Hash": "685ee5f0eb206dadb45b70e47e8da87e",
+      "Size": 18060
+    },
+    {
+      "Path": "resources/tilesets/DeadGrass.png",
+      "Hash": "1b8833914c6173414bab90c05955309c",
+      "Size": 917
+    },
+    {
+      "Path": "resources/tilesets/DeadTrees.png",
+      "Hash": "4c1aeb83d6d4c28f07995e7c26ea4068",
+      "Size": 1034
+    },
+    {
+      "Path": "resources/tilesets/Docks.png",
+      "Hash": "5d3405dbddefba490742ab6c0d7244c3",
+      "Size": 9079
+    },
+    {
+      "Path": "resources/tilesets/Grass.png",
+      "Hash": "1667b955d31b16ccc5711509941dab33",
+      "Size": 740
     },
     {
       "Path": "resources/tilesets/Ground.png",
@@ -7307,9 +7457,99 @@
       "Size": 16464
     },
     {
+      "Path": "resources/tilesets/Houses.png",
+      "Hash": "64a3c9c8c8e9d0b455e7f31694b12f05",
+      "Size": 1821
+    },
+    {
+      "Path": "resources/tilesets/Huts.png",
+      "Hash": "5c4c50fa89af8f7f94e0c966e5ca4eed",
+      "Size": 1088
+    },
+    {
       "Path": "resources/tilesets/Interior.png",
       "Hash": "aaf77be6bb966e50fcc2961473ac5f19",
       "Size": 28517
+    },
+    {
+      "Path": "resources/tilesets/Keep.png",
+      "Hash": "957a1bd361d84f8fe8ffca7fbc500d65",
+      "Size": 3040
+    },
+    {
+      "Path": "resources/tilesets/LimeBarracks.png",
+      "Hash": "827da8f63a0baef97130e7db57a866d3",
+      "Size": 24052
+    },
+    {
+      "Path": "resources/tilesets/LimeChapels.png",
+      "Hash": "48d529ea552ed844df706cf9315627ec",
+      "Size": 16121
+    },
+    {
+      "Path": "resources/tilesets/LimeDocks.png",
+      "Hash": "fb9d7ffd591b58158ef803ebc8eb8e2e",
+      "Size": 9379
+    },
+    {
+      "Path": "resources/tilesets/LimeHouses.png",
+      "Hash": "2772b11e5ebf0d21cfc4499518c43aab",
+      "Size": 11906
+    },
+    {
+      "Path": "resources/tilesets/LimeHuts.png",
+      "Hash": "e1ac9031840f37157d91b0d3f24b485b",
+      "Size": 5986
+    },
+    {
+      "Path": "resources/tilesets/LimeKeep.png",
+      "Hash": "e82a4de4d24f6ced3cadc215ca6f6fd8",
+      "Size": 22963
+    },
+    {
+      "Path": "resources/tilesets/LimeMarket.png",
+      "Hash": "3c6110a26b4e04a780a7b58da4a15eb4",
+      "Size": 11149
+    },
+    {
+      "Path": "resources/tilesets/LimeResources.png",
+      "Hash": "2657e04cae297d597d5e864a8d17ccaa",
+      "Size": 22429
+    },
+    {
+      "Path": "resources/tilesets/LimeShip.png",
+      "Hash": "a0adfab9266bb1420d26cc80636b5fbd",
+      "Size": 7219
+    },
+    {
+      "Path": "resources/tilesets/LimeTaverns.png",
+      "Hash": "39ac07c47146c8a16be7a98ce82b5de7",
+      "Size": 14467
+    },
+    {
+      "Path": "resources/tilesets/LimeTower.png",
+      "Hash": "884333e7c16eb2e1c7f2b9e024f7f4ec",
+      "Size": 11861
+    },
+    {
+      "Path": "resources/tilesets/LimeWell.png",
+      "Hash": "ba2ee13ccc07abbebb9e30207a1e98b8",
+      "Size": 8140
+    },
+    {
+      "Path": "resources/tilesets/LimeWorkshops.png",
+      "Hash": "1a031c8d8700ae51e3212cea3783abfb",
+      "Size": 18265
+    },
+    {
+      "Path": "resources/tilesets/Market.png",
+      "Hash": "458c705686f217aec63d4e4dca827069",
+      "Size": 2176
+    },
+    {
+      "Path": "resources/tilesets/Mausoleum.png",
+      "Hash": "d235717ed1301c94b20bf93a14977ed8",
+      "Size": 1727
     },
     {
       "Path": "resources/tilesets/Misc.png",
@@ -7327,14 +7567,269 @@
       "Size": 11480
     },
     {
+      "Path": "resources/tilesets/PineTrees.png",
+      "Hash": "f13684a6f76d557a8c74cade2b9f68c2",
+      "Size": 1131
+    },
+    {
+      "Path": "resources/tilesets/PirateShip.png",
+      "Hash": "e9ff94627b9fbbda123beea16b4415cc",
+      "Size": 2930
+    },
+    {
+      "Path": "resources/tilesets/Portal.png",
+      "Hash": "506d4a1ddb15667ef8e1ecdeab4404af",
+      "Size": 944
+    },
+    {
+      "Path": "resources/tilesets/PurpleBarracks.png",
+      "Hash": "d816f25f9346cba8dbd892f5f6dfce2d",
+      "Size": 24086
+    },
+    {
+      "Path": "resources/tilesets/PurpleChapels.png",
+      "Hash": "facc99e6ffee29288893097a8d2ae224",
+      "Size": 16193
+    },
+    {
+      "Path": "resources/tilesets/PurpleDocks.png",
+      "Hash": "c16aae5e95417e1f1731c36d576505f9",
+      "Size": 9378
+    },
+    {
+      "Path": "resources/tilesets/PurpleHouses.png",
+      "Hash": "e6ea50a81de8d9809a8fe1ab1e157a34",
+      "Size": 12117
+    },
+    {
+      "Path": "resources/tilesets/PurpleHuts.png",
+      "Hash": "ba0af2b1afe1a033571bd86fb05ad49f",
+      "Size": 5955
+    },
+    {
+      "Path": "resources/tilesets/PurpleKeep.png",
+      "Hash": "efac478d8bdeef2e3bb8d7147b503930",
+      "Size": 23134
+    },
+    {
+      "Path": "resources/tilesets/PurpleMarket.png",
+      "Hash": "50978492545f85096d8e1bd868f205e8",
+      "Size": 11076
+    },
+    {
+      "Path": "resources/tilesets/PurpleResources.png",
+      "Hash": "ba32eb744f5e5cb631730b43c90d59c0",
+      "Size": 18355
+    },
+    {
+      "Path": "resources/tilesets/PurpleShip.png",
+      "Hash": "38b8a719799e3d57065e71f77793d426",
+      "Size": 7113
+    },
+    {
+      "Path": "resources/tilesets/PurpleTaverns.png",
+      "Hash": "56acfdd182624a741537b0f5ad5fda6c",
+      "Size": 14368
+    },
+    {
+      "Path": "resources/tilesets/PurpleTower.png",
+      "Hash": "a8d8bf14ee623856c34390129a0e310f",
+      "Size": 11852
+    },
+    {
+      "Path": "resources/tilesets/PurpleWell.png",
+      "Hash": "1b8b3c5a632dca2114537bd96f3b164a",
+      "Size": 8196
+    },
+    {
+      "Path": "resources/tilesets/PurpleWorkshops.png",
+      "Hash": "62f339ad8bc90c0a410ef8aab9eabbe8",
+      "Size": 18250
+    },
+    {
+      "Path": "resources/tilesets/QuestBoard.png",
+      "Hash": "c7c25457adfd3ba8986ef524f9bbf5f7",
+      "Size": 8024
+    },
+    {
+      "Path": "resources/tilesets/RedBarracks.png",
+      "Hash": "01ccc2038b1b3b972aea1706b8ffc08b",
+      "Size": 24110
+    },
+    {
+      "Path": "resources/tilesets/RedChapels.png",
+      "Hash": "d2a802d2ae708c9479467acc29dc1dc4",
+      "Size": 16231
+    },
+    {
+      "Path": "resources/tilesets/RedDocks.png",
+      "Hash": "f621b6a710efb61628b99a5111d50a83",
+      "Size": 9519
+    },
+    {
+      "Path": "resources/tilesets/RedHouses.png",
+      "Hash": "cf64c1633ee413a37418d0de03430294",
+      "Size": 12241
+    },
+    {
+      "Path": "resources/tilesets/RedHuts.png",
+      "Hash": "4dbec0e8ae3ec7fb129fdd2f75bd2b3f",
+      "Size": 5962
+    },
+    {
+      "Path": "resources/tilesets/RedKeep.png",
+      "Hash": "6ee1fe09f43bfb20123067c989dab138",
+      "Size": 23351
+    },
+    {
+      "Path": "resources/tilesets/RedMarket.png",
+      "Hash": "a5d40ecdf378dc63e6cc9fc163e2472b",
+      "Size": 11208
+    },
+    {
+      "Path": "resources/tilesets/RedResources.png",
+      "Hash": "c9e5cb3eb9599e6646dc9c0e4a148391",
+      "Size": 18367
+    },
+    {
+      "Path": "resources/tilesets/RedShip.png",
+      "Hash": "56ea4b19e0fe58c908be903a39d11242",
+      "Size": 7076
+    },
+    {
+      "Path": "resources/tilesets/RedTaverns.png",
+      "Hash": "7fbbc804eab796fcd50f6632ab49e190",
+      "Size": 14774
+    },
+    {
+      "Path": "resources/tilesets/RedTower.png",
+      "Hash": "d3b73ffbdac8e3252e974dfc86a658e2",
+      "Size": 12141
+    },
+    {
+      "Path": "resources/tilesets/RedWell.png",
+      "Hash": "013f290e2a487125f1ea944afff5c56e",
+      "Size": 8181
+    },
+    {
+      "Path": "resources/tilesets/RedWorkshops.png",
+      "Hash": "d147006ce6dead8560405d25fba54035",
+      "Size": 18634
+    },
+    {
+      "Path": "resources/tilesets/Resources.png",
+      "Hash": "473ffe3a77dc8ccfe2b16557060f1493",
+      "Size": 22938
+    },
+    {
+      "Path": "resources/tilesets/Rocks.png",
+      "Hash": "833ccf78105b06b62255f9fa98bc8264",
+      "Size": 1972
+    },
+    {
+      "Path": "resources/tilesets/Shore.png",
+      "Hash": "1e898ddeba319c0c798a497783d3ebf5",
+      "Size": 631
+    },
+    {
+      "Path": "resources/tilesets/Signs.png",
+      "Hash": "94589b59096a003e0ed8d982cccd6f49",
+      "Size": 921
+    },
+    {
       "Path": "resources/tilesets/Slanted Roofs.png",
       "Hash": "e677539748b82a3fa5ac298ca35561df",
       "Size": 9329
     },
     {
+      "Path": "resources/tilesets/SpearWall.png",
+      "Hash": "16f1bce1a6874ef81a4df17d7c7da89d",
+      "Size": 1394
+    },
+    {
+      "Path": "resources/tilesets/StreetSigns.png",
+      "Hash": "c4af817eb00e7621ddcb0714e8eb53a1",
+      "Size": 11903
+    },
+    {
+      "Path": "resources/tilesets/Taverns.png",
+      "Hash": "7a7cd4f11d047cbb891dbf6cd246cb82",
+      "Size": 2636
+    },
+    {
       "Path": "resources/tilesets/Terrain.png",
       "Hash": "1c2107f82e4e313f083c1b46201687c7",
       "Size": 19432
+    },
+    {
+      "Path": "resources/tilesets/TexturedGrass.png",
+      "Hash": "71e4e818441f2a1188e21a89589bf042",
+      "Size": 6938
+    },
+    {
+      "Path": "resources/tilesets/Tombstones.png",
+      "Hash": "41435916e5a00b63729c2be4a841c337",
+      "Size": 1114
+    },
+    {
+      "Path": "resources/tilesets/Tower.png",
+      "Hash": "84067caade10bacf153546efe9919334",
+      "Size": 15845
+    },
+    {
+      "Path": "resources/tilesets/Tower2.png",
+      "Hash": "41dafcba768fdbeba726c0d9693755f4",
+      "Size": 15035
+    },
+    {
+      "Path": "resources/tilesets/TransportShip.png",
+      "Hash": "6213f6b52f8d92e46179bbdafbc09181",
+      "Size": 1505
+    },
+    {
+      "Path": "resources/tilesets/Trees.png",
+      "Hash": "67c812a4b45e25020ce5597cdbdcc6e7",
+      "Size": 1435
+    },
+    {
+      "Path": "resources/tilesets/Tumbleweed.png",
+      "Hash": "768b82532b251f0267f0c0ba73129fae",
+      "Size": 851
+    },
+    {
+      "Path": "resources/tilesets/WarShip.png",
+      "Hash": "e56fdef3cbfaf0e7f78203ff4ed064cc",
+      "Size": 3256
+    },
+    {
+      "Path": "resources/tilesets/Well.png",
+      "Hash": "e338607e678e29cb343c439a47159c30",
+      "Size": 1090
+    },
+    {
+      "Path": "resources/tilesets/Wheatfield.png",
+      "Hash": "1e2178951d9ed3167df8e5f9df24c6ef",
+      "Size": 1079
+    },
+    {
+      "Path": "resources/tilesets/Winter.png",
+      "Hash": "5ce6fa87c6ec45a6f04a610a6d79f239",
+      "Size": 657
+    },
+    {
+      "Path": "resources/tilesets/WinterDeadTrees.png",
+      "Hash": "b7616e7c23d38fd00ab2fa0f90988543",
+      "Size": 1342
+    },
+    {
+      "Path": "resources/tilesets/WinterTrees.png",
+      "Hash": "bd3354dd9cfcced32dc15a074ff998ef",
+      "Size": 1843
+    },
+    {
+      "Path": "resources/tilesets/Workshops.png",
+      "Hash": "099690db016c566344fa58b2e46ff93b",
+      "Size": 2127
     },
     {
       "Path": "resources/updater/background.png",

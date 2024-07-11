@@ -248,7 +248,7 @@
       "ToolTipFont": null,
       "ToolTipTextColor": "",
       "Label": {
-        "Bounds": "0,6,115,17",
+        "Bounds": "0,6,89,17",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

@@ -71,7 +71,7 @@
           "RightMouseClickSound": null
         },
         "InventoryItemEquippedLabel": {
-          "Bounds": "22,0,10,11",
+          "Bounds": "22,0,10,10",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -101,7 +101,7 @@
           "TextScale": 1.0
         },
         "InventoryItemCooldownLabel": {
-          "Bounds": "13,10,5,11",
+          "Bounds": "13,11,5,10",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -133,7 +133,7 @@
       }
     },
     "InventoryItemValue": {
-      "Bounds": "29,24,5,11",
+      "Bounds": "29,25,5,10",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
