@@ -7838,13 +7838,13 @@
     },
     {
       "Path": "resources/updater/font.xnb",
-      "Hash": "3f4b8382659011d39e31c504ddeab8b2",
-      "Size": 689774
+      "Hash": "581a1822ca043676a5a7a284c96d25ad",
+      "Size": 308334
     },
     {
       "Path": "resources/updater/fontsmall.xnb",
-      "Hash": "8bf12b074d982df36d38b6f8906b7111",
-      "Size": 423534
+      "Hash": "c91d6a1a7d95b64a467b82f60bb02f7f",
+      "Size": 177262
     },
     {
       "Path": "resources/updater/progressbar.png",
